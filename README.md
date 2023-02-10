@@ -1,4 +1,4 @@
-## Olá eu sou o Luca Gemelli, desenvolvedor e entusiasta de tecnologia!
+## Hi, welcome to my space I'm Luca Gemelli, developer and technology enthusiast!
 <div align="center">
   <a href="https://github.com/LucaGemelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaGemelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
